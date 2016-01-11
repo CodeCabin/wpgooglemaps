@@ -1,1 +1,1 @@
-# wpgooglemaps
+# WP Google Maps
